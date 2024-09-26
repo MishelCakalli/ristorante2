@@ -1,1 +1,5 @@
-<app-nav-bar></app-nav-bar>
+<div class="min-h-screen min-w-full bg-slate-200 dark:bg-slate-700" [ngClass]="darkModeSrvice.darkModeSignal()">
+  <app-nav-bar></app-nav-bar>
+  <app-content></app-content>
+  <app-footer></app-footer>
+</div>
