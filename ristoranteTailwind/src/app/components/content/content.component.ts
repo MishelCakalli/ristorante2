@@ -24,7 +24,7 @@ export class ContentComponent {
       text:'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa'
     },
     {
-      imageUrl:'https://lh4.googleusercontent.com/proxy/IXtaGZv0b4ANjH7UJK8x3-s_xCb81wbcutcNWIM2SsTuVBz1FD7aiXHCaQusn3lLwn1YQE7tSgpPeyYnWMAanFetrxGvpJfXex61562_J4j6aL4UdpYSEBmJIYwh7Y_AreVgRR3nAqA-lModsiSa3Fnz6n0?w=400&h=200&s=1',
+      imageUrl:'https://www.borgobrufa.it/wp-content/uploads/sites/495/2023/04/Ristorante-Quattro-Sensi-2.jpg?w=400&h=200&s=1',
       title:'Card 4',
       text:'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa'
     },
