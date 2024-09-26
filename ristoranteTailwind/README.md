@@ -1,27 +1,37 @@
-# RistoranteTailwind
+# Ristorante
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.12.
+## Descrizione
 
-## Development server
+Questo progetto è un'applicazione web realizzata con [Angular](https://angular.io/) e [Tailwind CSS](https://tailwindcss.com/). È progettata per essere un'interfaccia intuitiva e reattiva, con una navbar fissa, una sezione di benvenuto e un layout elegante per visualizzare i contenuti.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Indice
 
-## Code scaffolding
+- [Caratteristiche](#caratteristiche)
+- [Tecnologie Utilizzate](#tecnologie-utilizzate)
+- [Installazione](#installazione)
+- [Utilizzo](#utilizzo)
+- [Contribuzione](#contribuzione)
+- [Licenza](#licenza)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Caratteristiche
 
-## Build
+- Navbar fissa in cima alla pagina
+- Modalità scura e chiara
+- Sezione di benvenuto con immagine di sfondo
+- Layout reattivo per una visualizzazione ottimale su vari dispositivi
+- Sezione di contenuti con immagini e descrizioni
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Tecnologie Utilizzate
 
-## Running unit tests
+- [Angular](https://angular.io/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- HTML
+- CSS
+- TypeScript
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Installazione
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+1. **Clona il repository:**
+   ```bash
+   git clone https://github.com/tuo-username/tuo-repository.git
+   cd tuo-repository
